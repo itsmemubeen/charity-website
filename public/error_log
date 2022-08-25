@@ -1,0 +1,1 @@
+[10-Aug-2022 23:31:24 UTC] PHP Fatal error:  Cannot use Illuminate\Http\Request as Request because the name is already in use in /home/invulc/public_html/app/Http/Controllers/MailController.php on line 7
